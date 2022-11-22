@@ -249,11 +249,9 @@ body {
 
 /** Footer text **/
 
-.meta{
-  align-items: center;
+a {
   font-family: "Inter",sans-serif;
   font-weight: bold;
   color: rgb(230, 235, 224);
   font-size: 15px;
-  text-align: center;
 }
