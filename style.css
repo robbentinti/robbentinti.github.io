@@ -246,3 +246,14 @@ body {
 #wrapper[data-roundness="4"] > .shape:nth-child(7) {  
   border-top-left-radius: 10rem;
 }
+
+/** Footer text **/
+
+.meta{
+  align-items: center;
+  font-family: "Inter",sans-serif;
+  font-weight: bold;
+  color: rgb(230, 235, 224);
+  font-size: 15px;
+  text-align: center;
+}
