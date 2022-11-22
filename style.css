@@ -254,4 +254,6 @@ a {
   font-weight: bold;
   color: rgb(230, 235, 224);
   font-size: 15px;
+  position: fixed;
+  bottom: 50px;
 }
